@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="pasted-image-1786226860475.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="Muhammad Abubakar">
-  
+  <img src="./assets/profile.jpg" width="150" alt="Muhammad Abubakar" />
+
   <h1>Hi 👋, I'm Muhammad Abubakar</h1>
-  <h3>Co-Founder & Lead Software Engineer | Full-Stack, Mobile & Cloud</h3>
-  
+  <h3>Co-Founder & Lead Software Engineer | Full-Stack, Mobile & Cloud Architecture</h3>
+
   <p>Software engineer and co-founder with 4+ years delivering production web, mobile, and cloud systems for government, healthcare, retail, and AI clients.</p>
 
   <div>
@@ -23,25 +23,37 @@
 
 <br/>
 
-## 🚀 Live Deployments & Active Projects
+## 🚀 Live Production Systems
 
-*   **Shah Sanitary (Inventory, Billing & POS):** A complete point-of-sale platform and public storefront for a large sanitary-ware retail business.
-    *   🔗 **Store:** [shahsanitary.com](https://shahsanitary.com) | **Portal:** [software.shahsanitary.com](https://software.shahsanitary.com)
-*   **Persona Engine (AI Voice Chatbot):** An empathetic AI companion with speech-to-text/text-to-speech pipelines, LLM context-aware conversation, and safety guardrails, served via a live inference endpoint. 
+*   **Shah Sanitary (Inventory, Billing & POS):** A complete inventory, billing, and point-of-sale platform with a public storefront for a large sanitary-ware retail business.
+    *   🔗 **Live Store:** [shahsanitary.com](https://shahsanitary.com) | **Client Software:** [software.shahsanitary.com](https://software.shahsanitary.com)
+*   **Persona Engine / StressReleaser (AI Voice Chatbot):** An empathetic AI voice chatbot with speech-to-text/text-to-speech pipelines, LLM context-aware conversation, and safety guardrails, served via a live inference endpoint.
     *   🔗 **Live App:** [sudohat-persona-engine.hf.space](https://sudohat-persona-engine.hf.space/)
 *   **Bird Quetta:** Custom web platform and secure authentication portal.
-    *   🔗 **Site:** [birdquetta.com](https://birdquetta.com/) | **Portal:** [portal.birdquetta.com/login](https://portal.birdquetta.com/login)
+    *   🔗 **Live Site:** [birdquetta.com](https://birdquetta.com/) | **Secure Portal:** [portal.birdquetta.com/login](https://portal.birdquetta.com/login)
 *   **Glassco PK:** Enterprise web presence.
-    *   🔗 **Site:** [glasscopk.com](https://glasscopk.com)
+    *   🔗 **Live Site:** [glasscopk.com](https://glasscopk.com)
+
+More projects available upon request. Much of my core enterprise and client code (BISA, Civil Hospital Quetta) lives in private government/client repositories.
 
 ---
 
-## 💼 Enterprise Experience: CodeForge PK
-**Co-Founder & Lead Software Engineer** (Jan 2022 - Present)
+## 💼 Core Experience — CodeForge PK (Quetta, Pakistan)
+**Co-Founder & Lead Software Engineer** · Jan 2022 – Present
 
-*   **BISA (Balochistan Integrated Security Architecture):** Deployed and hardened the official provincial platform for thousands of concurrent citizens and staff users, handling server provisioning, migration, and production hardening (Laravel, MySQL, Linux)[cite: 1].
-*   **Civil Hospital Quetta:** Architected the hospital website and Flutter mobile app for real-time patient record management; implemented RBAC, encrypted storage, and offline-first sync for low-connectivity wards[cite: 1].
-*   **Infrastructure & Optimization:** Engineer custom multi-tier web ecosystems; build low-level optimizations including compiled C++ Windows background services for dynamic system-metric evaluation. Architect deployment pipelines (GitHub Actions) and manage edge databases (Turso).
+*   Co-founded and scaled a profitable software house, owning end-to-end delivery of **15+ production systems** for government, healthcare, and private-sector clients.
+*   Engineer custom multi-tier web ecosystems and retail POS systems; built a compiled **C++ Windows background service** for dynamic system-metric evaluation.
+*   Own DevOps and cloud infrastructure — GitHub Actions deployment pipelines, **Cloudflare Workers with D1 SQLite**, **Turso** edge databases with local-sync, plus Linux/Nginx, SSL, backups, and monitoring.
+*   Run business operations alongside engineering: brand and promotional material, drafting and managing client contracts, technical pre-sales, and co-founder task division across full-stack delivery.
+
+---
+
+## 🛠️ Selected Enterprise Projects
+
+*   **BISA — Balochistan Integrated Security Architecture** *(Government of Balochistan · Laravel · MySQL · Linux)*
+    Deployed and hardened the official provincial platform for thousands of concurrent citizens and staff users, including server provisioning, migration, and production hardening.
+*   **Civil Hospital Quetta — Hospital Portal & Doctor Mobile App** *(Healthcare · Laravel · Flutter · MySQL · REST APIs)*
+    Architected the hospital website and doctor mobile app for real-time patient record management; implemented RBAC, encrypted storage, and offline-first sync for low-connectivity wards.
 
 ---
 
@@ -56,6 +68,14 @@
 
 <br/>
 
+## 🎓 Education & Certifications
+
+*   **BS Software Engineering** — BUITEMS, Quetta *(2022 – 2026)*
+*   **F.Sc. Pre-Engineering** — Tameer-i-Nau Public College *(2020 – 2022)*
+*   **ISO/IEC 27001:2022 Information Security Associate** — SkillFront *(Sep 2024, Credential ID 66086553608955)*
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -63,14 +83,4 @@
   <br/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=webcustomise&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webcustomise&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webcustomise/webcustomise/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webcustomise/webcustomise/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/webcustomise/webcustomise/output/github-snake.svg" />
-  </picture>
 </div>
