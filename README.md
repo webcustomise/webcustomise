@@ -1,8 +1,9 @@
 <div align="center">
-  
+  <img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%;" alt="Muhammad Abubakar" />
+
   <h1>Hi 👋, I'm Muhammad Abubakar</h1>
   <h3>Co-Founder & Lead Software Engineer | Full-Stack, Mobile & Cloud Architecture</h3>
-  
+
   <p>Software engineer and co-founder with 4+ years delivering production web, mobile, and cloud systems for government, healthcare, retail, and AI clients.</p>
 
   <div>
@@ -22,41 +23,37 @@
 
 <br/>
 
-## 🚀 Live Production Systems & Deployments
+## 🚀 Live Production Systems
 
-While much of my core enterprise and client code is housed in private repositories, below are active, production-grade systems I have engineered and deployed:
-
-*   **Shah Sanitary (Inventory, Billing & POS):** A complete point-of-sale platform and public storefront for a large sanitary-ware retail business.
+*   **Shah Sanitary (Inventory, Billing & POS):** A complete inventory, billing, and point-of-sale platform with a public storefront for a large sanitary-ware retail business.
     *   🔗 **Live Store:** [shahsanitary.com](https://shahsanitary.com) | **Client Software:** [software.shahsanitary.com](https://software.shahsanitary.com)
-*   **Persona Engine (AI Voice Chatbot):** An empathetic AI companion with speech-to-text/text-to-speech pipelines and LLM context-aware conversation served via a live inference endpoint. 
+*   **Persona Engine / StressReleaser (AI Voice Chatbot):** An empathetic AI voice chatbot with speech-to-text/text-to-speech pipelines, LLM context-aware conversation, and safety guardrails, served via a live inference endpoint.
     *   🔗 **Live App:** [sudohat-persona-engine.hf.space](https://sudohat-persona-engine.hf.space/)
 *   **Bird Quetta:** Custom web platform and secure authentication portal.
     *   🔗 **Live Site:** [birdquetta.com](https://birdquetta.com/) | **Secure Portal:** [portal.birdquetta.com/login](https://portal.birdquetta.com/login)
 *   **Glassco PK:** Enterprise web presence.
     *   🔗 **Live Site:** [glasscopk.com](https://glasscopk.com)
 
+More projects available upon request. Much of my core enterprise and client code (BISA, Civil Hospital Quetta) lives in private government/client repositories.
+
 ---
 
-## 💼 Core Experience: CodeForge PK (Quetta, Pakistan)
-**Co-Founder & Lead Software Engineer**
+## 💼 Core Experience — CodeForge PK (Quetta, Pakistan)
+**Co-Founder & Lead Software Engineer** · Jan 2022 – Present
 
-My responsibilities bridge foundational business operations and advanced systems engineering to deliver high-availability, secure platforms serving thousands of users.
-
-**Software Engineering & Architecture:**
-*   **System Development:** Engineer custom multi-tier web ecosystems and retail POS systems; build low-level optimizations including compiled C++ Windows background services for dynamic system-metric evaluation.
-*   **DevOps & Cloud Infrastructure:** Architect automated deployment pipelines (GitHub Actions) and manage cloud infrastructure (Cloudflare bound to D1 SQLite instances, Linux/Nginx, SSL).
-*   **Database Management:** Evaluate and implement edge database technologies (Turso) and local-sync configurations for offline-first capabilities.
-
-**Business & Brand Operations:**
-*   **Administrative Management:** Draft and manage legal contracts for company projects and partnerships while executing technical pre-sales.
-*   **Strategic Partnerships:** Collaborate closely with co-founder Ahmed on full-stack development task division and foundational brand development.
+*   Co-founded and scaled a profitable software house, owning end-to-end delivery of **15+ production systems** for government, healthcare, and private-sector clients.
+*   Engineer custom multi-tier web ecosystems and retail POS systems; built a compiled **C++ Windows background service** for dynamic system-metric evaluation.
+*   Own DevOps and cloud infrastructure — GitHub Actions deployment pipelines, **Cloudflare Workers with D1 SQLite**, **Turso** edge databases with local-sync, plus Linux/Nginx, SSL, backups, and monitoring.
+*   Run business operations alongside engineering: brand and promotional material, drafting and managing client contracts, technical pre-sales, and co-founder task division across full-stack delivery.
 
 ---
 
 ## 🛠️ Selected Enterprise Projects
 
-*   **BISA (Balochistan Integrated Security Architecture):** Deployed and hardened the official provincial platform for thousands of concurrent citizens and staff users, handling server provisioning, migration, and production hardening.
-*   **Civil Hospital Quetta (Portal & Doctor App):** Architected the hospital website and Flutter mobile app for real-time patient record management; implemented RBAC, encrypted storage, and offline-first sync for low-connectivity wards.
+*   **BISA — Balochistan Integrated Security Architecture** *(Government of Balochistan · Laravel · MySQL · Linux)*
+    Deployed and hardened the official provincial platform for thousands of concurrent citizens and staff users, including server provisioning, migration, and production hardening.
+*   **Civil Hospital Quetta — Hospital Portal & Doctor Mobile App** *(Healthcare · Laravel · Flutter · MySQL · REST APIs)*
+    Architected the hospital website and doctor mobile app for real-time patient record management; implemented RBAC, encrypted storage, and offline-first sync for low-connectivity wards.
 
 ---
 
@@ -70,6 +67,14 @@ My responsibilities bridge foundational business operations and advanced systems
 </div>
 
 <br/>
+
+## 🎓 Education & Certifications
+
+*   **BS Software Engineering** — BUITEMS, Quetta *(2022 – 2026)*
+*   **F.Sc. Pre-Engineering** — Tameer-i-Nau Public College *(2020 – 2022)*
+*   **ISO/IEC 27001:2022 Information Security Associate** — SkillFront *(Sep 2024, Credential ID 66086553608955)*
+
+---
 
 ## 📊 GitHub Analytics
 
