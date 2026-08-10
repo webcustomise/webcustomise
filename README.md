@@ -29,7 +29,7 @@
 *   **Shah Sanitary (Inventory, Billing & POS):** A complete inventory, billing, and point-of-sale platform with a public storefront for a large sanitary-ware retail business.
     *   🔗 **Live Store:** [shahsanitary.com](https://shahsanitary.com) | **Client Software:** [software.shahsanitary.com](https://software.shahsanitary.com)
 *   **Persona Engine / StressReleaser (AI Voice Chatbot):** An empathetic AI voice chatbot with speech-to-text/text-to-speech pipelines, LLM context-aware conversation, and safety guardrails, served via a live inference endpoint.
-    *   🔗 **Live App:** [sudohat-persona-engine.hf.space](https://sudohat-persona-engine.hf.space/)
+    *   🔗 **Live App:** Available upon request
 *   **Bird Quetta:** Custom web platform and secure authentication portal.
     *   🔗 **Live Site:** [birdquetta.com](https://birdquetta.com/) | **Secure Portal:** [portal.birdquetta.com/login](https://portal.birdquetta.com/login)
 *   **Glassco PK:** Enterprise web presence.
@@ -81,14 +81,4 @@
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=webcustomise&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webcustomise/webcustomise/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webcustomise/webcustomise/output/github-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/webcustomise/webcustomise/output/github-snake.svg" />
-  </picture>
 </div>
